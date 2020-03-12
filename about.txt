@@ -1,0 +1,9 @@
+project MyWayToAllah
+goal: enabling users to write their life story as anonymos users and allow others to read. main theme is that
+the story should be about how they found Allah and became good practicing muslims after going through tribulations.
+
+
+functions:  
+- username and password (no link to email).
+- a user can post a story.
+- a user can read a story. 
